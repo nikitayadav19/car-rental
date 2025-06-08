@@ -27,7 +27,7 @@ This project is perfect for beginners and intermediate developers looking to sha
 ---
 
 ## 📁 Folder Structure
-     ```bash
+
                 RentCars/
                   │
                   ├── index.html
