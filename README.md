@@ -27,17 +27,18 @@ This project is perfect for beginners and intermediate developers looking to sha
 ---
 
 ## 📁 Folder Structure
+     ```bash
+                RentCars/
+                  │
+                  ├── index.html
+                  ├── css/
+                  │ └── style.css
+                  ├── js/
+                  │ └── script.js
+                  ├── images/
+                  │ └── (car images, icons, and logos)
+                  └── README.md
 
-RentCars/
-│
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-├── images/
-│ └── (car images, icons, and logos)
-└── README.md
 
 
 
@@ -47,17 +48,18 @@ RentCars/
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/nikitayadav19/RentCars.git
+         ```bash
+     git clone https://github.com/nikitayadav19/RentCars.git
 
 
 
-2. Open in your browser
-You can simply open index.html with any modern browser or use a local server:
+### 2. Open in your browser
+   You can simply open index.html with any modern browser or use a local server:
 
-bash
 # For VS Code users:
 Live Server Extension → Right-click index.html → Open with Live Serve
+
+
 
 
 🧑‍💻 Author
