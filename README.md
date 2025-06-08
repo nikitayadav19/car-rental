@@ -48,7 +48,7 @@ This project is perfect for beginners and intermediate developers looking to sha
 
 ### 1. Clone the repository
 
-         ```bash
+     
      git clone https://github.com/nikitayadav19/RentCars.git
 
 
