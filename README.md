@@ -21,7 +21,7 @@ This project is perfect for beginners and intermediate developers looking to sha
 
 - **HTML5** — Structure and content
 - **CSS3** — Styling, layout, responsiveness
-- **JavaScript (Vanilla)** — Interactivity and DOM manipulation
+- **JavaScript ** — Interactivity and DOM manipulation
 - **Google Fonts & Font Awesome** — For typography and icons
 
 ---
